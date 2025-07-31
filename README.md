@@ -1,9 +1,11 @@
 mostly breaking transformer models to see what happens
 
-(experimenting with architectures, scaling, and other bad ideas)
+(experimenting with architectures, scaling, and other bad ideas)  
 
-writing down the stuff I break so I can break it better next time
+documenting what happens when you argue with transformers (and transformers fight back)
 
-(expect bugs, benchmarks, and opinions)
+(and my mistakes in HD) (and the occasional existential crisis)  
 
-now it’s a rabbit hole
+(expect bugs, benchmarks, and opinions)  
+
+now it’s a rabbit hole  
