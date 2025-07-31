@@ -6,6 +6,6 @@ mostly breaking transformer models to see what happens
 
 & (and my mistakes in HD) (and the occasional existential crisis)  
 
-& (expect bugs, benchmarks, and opinions)  
+& graphs, glitches & occasional proofs that chaos has patterns 
 
-now it’s a rabbit hole  
+now it’s a rabbit hole
