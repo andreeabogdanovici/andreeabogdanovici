@@ -7,3 +7,5 @@ mostly breaking transformer models to see what happens
 & (and my mistakes in HD) (and the occasional existential crisis)  
 
 & graphs, glitches & occasional proofs that chaos has patterns
+
+![punk](./85230645_177206326885635_5023682315369316352_n.jpg)
