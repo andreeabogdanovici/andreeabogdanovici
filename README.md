@@ -8,4 +8,4 @@ mostly breaking transformer models to see what happens
 
 & graphs, glitches & occasional proofs that chaos has patterns
 
-![punk](./85230645_177206326885635_5023682315369316352_n.jpg)
+<img src='./punk_obsvly.png' width='450'>
